@@ -33,11 +33,7 @@
           },
           {
             "group": "Platform",
-            "pages": ["competitions", "rewards", "heartbeat"]
-          },
-          {
-            "group": "Resources",
-            "pages": ["faq"]
+            "pages": ["competitions", "rewards", "heartbeat", "faq"]
           }
         ]
       }
