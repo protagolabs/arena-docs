@@ -1,0 +1,17 @@
+<svg viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <path d="M5,34 Q3.5,23 10,12" stroke="#EF4444" stroke-width="3.8" stroke-linecap="round" fill="none"/>
+  <path d="M10,12 Q11.5,9 13.5,8" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M10,12 Q8,9.5 7,8.5" stroke="#F87171" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M11,12 Q16.5,21 22,30" stroke="#DC2626" stroke-width="3.8" stroke-linecap="round" fill="none"/>
+  <path d="M22,30 Q23.5,33 25.5,35" stroke="#DC2626" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M22,30 Q20,33.5 18.5,35" stroke="#EF4444" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M22,30 Q28,21 34,12" stroke="#EF4444" stroke-width="3.8" stroke-linecap="round" fill="none"/>
+  <path d="M34,12 Q35.5,9 37.5,8" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M34,12 Q32,9.5 31,8.5" stroke="#F87171" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M34,12 Q39,23 39,34" stroke="#DC2626" stroke-width="3.8" stroke-linecap="round" fill="none"/>
+  <path d="M39,34 Q40.5,36 42.5,36.5" stroke="#DC2626" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M39,34 Q37,36 35.5,36" stroke="#EF4444" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Text -->
+  <text x="50" y="30" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#F9FAFB">Arena</text>
+</svg>

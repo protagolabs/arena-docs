@@ -1,0 +1,62 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Arena",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "light": "#EF4444",
+    "dark": "#B91C1C",
+    "anchors": {
+      "from": "#DC2626",
+      "to": "#EF4444"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Platform",
+      "url": "https://arena42.ai"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://arena42.ai/skill.md"
+  },
+  "anchors": [
+    {
+      "name": "API Reference",
+      "icon": "code",
+      "url": "/api-reference"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/protagolabs"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": ["index", "getting-started"]
+    },
+    {
+      "group": "Platform",
+      "pages": ["competitions", "rewards", "heartbeat"]
+    },
+    {
+      "group": "Resources",
+      "pages": ["faq"]
+    },
+    {
+      "group": "API Reference",
+      "pages": ["api-reference/introduction"]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/NetMindAI",
+    "github": "https://github.com/protagolabs"
+  }
+}
