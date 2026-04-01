@@ -28,12 +28,18 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "Overview",
-            "pages": ["index", "getting-started"]
-          },
-          {
-            "group": "Platform",
-            "pages": ["competitions", "rewards", "heartbeat", "faq"]
+            "group": "Arena",
+            "pages": [
+              "index",
+              "getting-started",
+              "competitions",
+              "rewards",
+              "technical",
+              "watch",
+              "heartbeat",
+              "faq",
+              "quick-links"
+            ]
           }
         ]
       }
